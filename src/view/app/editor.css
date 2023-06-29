@@ -1,0 +1,120 @@
+body{
+    background-color: whitesmoke !important;
+    color: slategray !important;
+    font-size: medium;
+}
+
+div.property{
+    display: flex;
+    align-items: baseline;
+    
+}
+
+.array-field{
+    flex-direction: column;
+}
+
+.submit-button{
+    margin: 10px;
+}
+
+.input-field{
+    padding-left: 5px; 
+}
+
+input{
+    font-size: 14px!important
+}
+
+.new-mission{
+    display: flex;
+    width: 95vw;
+    height: 95vh;
+    justify-content: center;
+}
+
+.new-mission-content{
+    height: fit-content;
+    align-self: center;
+}
+
+.field-label{
+    margin-right: 5px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+h2{
+    color:black;
+}
+
+.MuiAccordionSummary-gutters{
+    padding-top: 5px;
+    padding-left: 0px !important;
+}
+
+.MuiAccordionSummary-content{
+    margin: 0px !important;
+    min-height: unset !important;
+}
+
+.MuiAccordionDetails-root{
+    padding-top: 0px !important;
+}
+
+.MuiAccordion-root{
+    background: transparent !important; 
+    box-shadow: none !important;
+}
+
+.MuiAccordionSummary-root{
+    min-height: unset !important;
+    width: fit-content;
+}
+
+.MuiAccordionSummary-content{
+    color: slategray !important;
+    width: fit-content !important;
+}
+
+.boolean-field{
+    align-items: center !important;
+    padding-top: 5px !important;
+}
+
+.MuiToggleButton-root{
+    padding: 2px !important;
+    height: min-content !important;
+}
+
+.object-field{
+    margin-top: 2px;
+}
+
+.submit-button{
+    margin-top: 15px !important;
+}
+
+.object-field{
+    margin-top: 5px !important;
+}
+
+.MuiAccordionDetails-root{
+    padding-bottom: 0px !important;
+}
+
+.field-label{
+    color: slategray !important;
+}
+
+/* Error Formatting */
+.error-bar {
+    text-align-last: left;
+    background: #ff52524f;
+    margin-bottom: 5px;
+    width: 95vw;
+}
+
+h1{
+    color: black !important;
+}
