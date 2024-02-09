@@ -1,6 +1,7 @@
 # README
 
 ## Features
+*Demo available at https://youtu.be/LdTG7CjZEJU*
 
 This extension offers 3 commands:
 - JSON Editor: Plain JSON Viewer
